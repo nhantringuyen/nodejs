@@ -1,0 +1,5 @@
+20220327	22:58:29	5a5af801-876c-4d17-be63-e7effaf829b0	Log event emitted!
+20220327	22:58:37	dd53a517-4b5e-4ffb-845f-0bdf9e741e35	Log event emitted!
+20220327	22:58:45	721a9568-6a7a-41db-a599-5934dfe2ef55	Log event emitted!
+20220327	23:00:00	f593e33c-efcc-4ff0-b7e7-3ca8b807cae0	Log event emitted!
+20220327	23:00:04	6283cd2a-e68a-4070-a6f0-548f50a457ce	Log event emitted!
